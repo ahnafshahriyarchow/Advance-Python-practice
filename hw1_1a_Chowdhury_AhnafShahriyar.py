@@ -1,12 +1,3 @@
-"""
-Group Members:
-1. SYED ALI JAVED
-2. SAMEER UL HAQ
-3. AHNAF SHAHRIYAR CHOWDHURY
-"""
-
-# My code here
-
 import numpy as np
 from collections import defaultdict
 
